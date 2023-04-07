@@ -1,0 +1,2 @@
+Bu dersimizde git ignor konusunu öğreniyoruz
+ 
